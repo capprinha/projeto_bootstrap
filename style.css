@@ -1,0 +1,41 @@
+.fundo-vermelho-forte{
+    background-color:#660022 ;
+}
+.fundo-vermelho-fraco{
+    background-color:#8c162a ;
+}
+nav a{
+    padding: 15px 10px;
+    text-decoration: none;
+    color: #bad1c9;
+
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.btn{
+    color: #fff;
+    background-color: #bad1c9;
+    outline: none;
+}
+.btn:hover{
+    background-color: #ebe5ce;
+}
+
+.img-tamanho{
+    width: 102%;
+    border-radius: 10px;
+}
+.cor-titulo{
+    color: #bad1c9;
+}
+.cor-fundo{
+    background-color: #bad1c9;
+}
+.icone{
+    font-size: 60px;
+    color: #bad1c9;
+}
+.tamanho-fonte{
+    font-size: 1.3em;
+    text-align: justify;
+}
